@@ -34,7 +34,6 @@ sections:
 
   - type: ranked-list
     title: "Ordenação"
-    columns: [Score, Disponibilidade]
     rows:
       - position: 1
         delta: 281
