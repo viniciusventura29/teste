@@ -21,12 +21,12 @@ sections:
   - type: criteria
     title: "Critérios"
     items:
-      - label: "ML Score"
-        description: "Score de machine learning baseado em sessões e conversões."
+      - label: "Performace"
+        description: "Score baseado em sessões e conversões."
       - label: "Disponibilidade"
         description: "Score de disponibilidade de estoque."
       - label: "Score Final"
-        description: "Combinação de ML score e disponibilidade."
+        description: "Combinação de performace e disponibilidade."
   - type: note
     content: "Ordenação baseada em dados de sessões, taxa de add to cart, purchase rate e disponibilidade de estoque."
   - type: ranked-list
