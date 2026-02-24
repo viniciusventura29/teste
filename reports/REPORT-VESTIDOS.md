@@ -30,7 +30,7 @@ sections:
   - type: note
     content: "Ordenação baseada em dados de sessões, taxa de add to cart, purchase rate e disponibilidade de estoque."
   - type: ranked-list
-    title: "Ordenação"
+    title: "Ordenação Proposta"
     rows:
       - position: 1
         delta: 20
