@@ -1,5 +1,5 @@
 ---
-title: "Relatório de Ordenação - Vestidos"
+title: "Relatório de Ordenação - Vestidos v2"
 category: quality
 status: passing
 summary: "Reordenação aplicada com sucesso. 332 produtos, 329 mudanças."
